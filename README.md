@@ -19,7 +19,7 @@ import sys
 3 ЛАБОРАТОРНАЯ РАБОТА
 Запустить файл 3lab.py
 Необходимые библиотеки для работы:
-```
+```python
 import requests
 ```
 
@@ -27,7 +27,7 @@ import requests
 4 ЛАБОРАТОРНАЯ РАБОТА
 Запустить файл lab5.py
 Необходимые библиотеки для работы:
-```
+```python
 import ftplib
 import os
 import time
