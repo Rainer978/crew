@@ -17,7 +17,7 @@ from tkinter import filedialog
 import tkinter
 import tabulate
 ```
-
+![Screenshot_2](https://user-images.githubusercontent.com/104307852/233779492-4ff5393c-6bae-4acf-a49f-abbe749fbe34.png)
 
 5 ЛАБОРАТОРНАЯ РАБОТА
 Скачать и запустить файл ***main.py***
